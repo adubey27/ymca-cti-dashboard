@@ -1,0 +1,37 @@
+
+Cyber Threat Intelligence in Nonprofits - YMCA Norfolk Case Study
+
+1. Research Objectives:
+- Identify CTI data collected, stored, and used.
+- Examine tools and workflows.
+- Discover barriers (e.g. data overload).
+- Understand staff views and ethics.
+- Design a practical CTI framework.
+
+2. Data Sources:
+- Firewall Logs, Email Alerts, Interview Transcripts, Audit Reports
+
+3. Key Challenges (see key_challenges_chart.png):
+- Alert Overload
+- Tool Fragmentation
+- Low Awareness
+- Ethical Resistance
+
+4. Thematic Analysis (see wordcloud_themes.png):
+- Topics from NVivo coding and staff interviews.
+
+5. Mock Log Data (filtered example saved in 'filtered_mock_logs.csv')
+
+6. Recommendations:
+- Use Automated Triage (e.g. Microsoft Sentinel)
+- Centralised Log Views
+- Cybersecurity Training Modules
+- CTI Steering Committee
+
+7. Ethical Considerations:
+- Anonymised logs, NDA, UEA Ethics Clearance
+
+8. Future Work:
+- Final NVivo coding, CTI model development, stakeholder review
+
+Dashboard Complete – See generated charts and CSV outputs.
